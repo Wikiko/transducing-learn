@@ -1,0 +1,13 @@
+{
+  "name": "transducing-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "William Raimundo Azevedo",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
